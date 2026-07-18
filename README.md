@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30155389/README.md)
 # Rahamotullah — Portfolio
 
 A personal portfolio site for Rahamotullah, Mechanical Engineer (CAD / R&D), built with
@@ -32,6 +31,3 @@ text editor and change text, links, or colors directly — no rebuild step neede
 2. Upload `index.html`, `style.css`, `script.js`, and the whole `assets` folder (drag the
    folder itself into the GitHub upload box — it will keep the `assets/` path automatically).
 3. Go to the repo's **Settings → Pages**.
-4. Under "Build and deployment", set **Source** to `Deploy from a branch`, branch
-   `main`, folder `/ (root)`. Click **Save**.
-5. Wait a minute, then visit `https://<your-github-username>.github.io/<repo-name>/`.
